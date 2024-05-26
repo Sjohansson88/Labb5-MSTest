@@ -1,0 +1,15 @@
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.AssemblyInfoInputs.cache
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.AssemblyInfo.cs
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.csproj.CoreCompileInputs.cache
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\bin\Debug\net6.0\DotNetDynamosV2.exe
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\bin\Debug\net6.0\DotNetDynamosV2.deps.json
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\bin\Debug\net6.0\DotNetDynamosV2.runtimeconfig.json
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\bin\Debug\net6.0\DotNetDynamosV2.dll
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\bin\Debug\net6.0\DotNetDynamosV2.pdb
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.dll
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\refint\DotNetDynamosV2.dll
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.pdb
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.genruntimeconfig.cache
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\ref\DotNetDynamosV2.dll
+C:\Users\sjoha\source\repos\DotNetDynamosV2\Ny\obj\Debug\net6.0\DotNetDynamosV2.sourcelink.json
